@@ -19,6 +19,10 @@ Greetings, fellow developers! I'm Polymorphism, a passionate bug hunter and soft
 - Contributed to open-source security projects, fostering a collaborative approach to cybersecurity.
 - Actively participate in bug bounty programs, ensuring the digital landscape is safer for everyone.
 
+## 🚀 GitHub Stats
+[![Polymorphism GitHub Stats](https://github-readme-stats.vercel.app/api?username=polymorphismYeah&show_icons=true&hide_title=true)](https://github.com/polymorphismYeah)
+
+
 ## Contact
 
 📧 Email: [your.email@example.com](mailto:your.email@example.com)
