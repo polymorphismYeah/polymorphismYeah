@@ -25,6 +25,10 @@ Greetings, fellow developers! I'm Polymorphism, a passionate bug hunter and soft
 
 ## Contact
 
+<a href="mailto:polymorphismyeah@proton.me">
+<img src="https://img.shields.io/badge/Proton Mail-%231877F2.svg?&style=for-the-badge&logo=ProtonMail&logoColor=ungu&color=071A2C" alt="ProtonMail"/>
+</a>
+
 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 🐦 Twitter: [@PolymorphismBugHunter](https://twitter.com/PolymorphismBugHunter)
 🌐 LinkedIn: [PolymorphismBugHunter](https://www.linkedin.com/in/PolymorphismBugHunter/)
